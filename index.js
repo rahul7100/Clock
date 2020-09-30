@@ -1,6 +1,7 @@
 const hourhand = document.querySelector('.hour');
 const minhand = document.querySelector('.min');
 const sechand = document.querySelector('.sec');
+// adding functionality to the clock
 
 function timehand(){
     const now = new Date();
